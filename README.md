@@ -1,2 +1,2 @@
 # Haskell
-A collection of functional programming projects written in Haskell
+A collection of personal projects written in Haskell
